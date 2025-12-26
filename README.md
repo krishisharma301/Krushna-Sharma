@@ -129,7 +129,7 @@ Arduino-Bluetooth-Controlled-Robot/
 ## 🎥 Project Demo Video
 
 ▶️ Watch the working demo here:  
-https://github.com/krishisharma301/Arduino-Bluetooth-Controlled-Robot/blob/main/Workingvideo.mp4
+https://github.com/krishisharma301/Arduino-Bluetooth-Controlled-Robot/blob/main/demo/Workingvideo.mp4
 
 
 ## 🙋‍♂️ Developer Info
